@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/hero_outbound.png</image:loc>
+      <image:title>Gemilang Katun Outbound – EO Outbound Profesional Malang Batu</image:title>
+      <image:caption>Tim Gemilang Katun Outbound sedang melakukan aktivitas outbound di hutan pinus Batu Malang</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog listing -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/blog.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/hero_outbound.png</image:loc>
+      <image:title>Blog Outbound Malang Batu – Gemilang Katun Outbound</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 1: Paintball Simulasi Tempur -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/artikel-1.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/paintball_tempur.png</image:loc>
+      <image:title>Paket Paintball Simulasi Tempur di Hutan Pinus Batu</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 2: EO Gathering Jatim Park -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/artikel-2.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/gathering_jatimpark.png</image:loc>
+      <image:title>EO Gathering Perusahaan di Jatim Park Malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 3: Team Bonding -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/artikel-3.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/team_bonding.png</image:loc>
+      <image:title>Program Team Bonding Perusahaan di Malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 4: Wisata Edukasi -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/artikel-4.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/wisata_edukasi.png</image:loc>
+      <image:title>Paket Wisata Edukasi Dan Outbound Malang</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 5: Harga Paket Songgoriti -->
+  <url>
+    <loc>https://gemilang-outbound.vercel.app/artikel-5.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilang-outbound.vercel.app/images/songgoriti_outbound.png</image:loc>
+      <image:title>Harga Paket Outbound Songgoriti Batu</image:title>
+    </image:image>
+  </url>
+
+</urlset>

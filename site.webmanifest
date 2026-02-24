@@ -1,0 +1,18 @@
+{
+  "name": "Gemilang Katun Outbound",
+  "short_name": "GKO Malang",
+  "description": "Event Organizer Outbound profesional di Malang & Batu. Paintball, Team Building, Gathering, Wisata Edukasi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6d28d9",
+  "theme_color": "#6d28d9",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='16' fill='%236d28d9'/><text y='72' x='50' text-anchor='middle' font-size='62' font-family='sans-serif'>🌲</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
