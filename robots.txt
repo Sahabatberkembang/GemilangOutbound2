@@ -1,5 +1,5 @@
 # Robots.txt – Gemilang Katun Outbound
-# https://gemilang-outbound.vercel.app/
+# https://gemilang-outbound2.vercel.app/
 
 User-agent: *
 Allow: /
@@ -31,4 +31,4 @@ User-agent: ClaudeBot
 Allow: /
 
 # Sitemap location
-Sitemap: https://gemilang-outbound.vercel.app/sitemap.xml
+Sitemap: https://gemilang-outbound2.vercel.app/sitemap.xml
